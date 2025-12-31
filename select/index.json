@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "朝凪",
+  "base_artist": "あたらよ",
+  "createdAt": "2025-12-31T08:41:39.234276Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "朝凪",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_朝凪_あたらよ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朝凪",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_朝凪_あたらよ.txt"
+    }
+  ]
+}
